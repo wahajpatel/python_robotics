@@ -1,3 +1,5 @@
+# https://www.youtube.com/redirect?q=http%3A%2F%2Fforums.tigsource.com%2Findex.php%3Ftopic%3D35904.msg944774%23msg944774&v=89tLH16_38M&event=video_description&redir_token=olASlSxuwjzzgvEZkUB8Z28IVEp8MTU0MDg2ODA3NEAxNTQwNzgxNjc0
+
 import pygame
 pygame.init()
  
